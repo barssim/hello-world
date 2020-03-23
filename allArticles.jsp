@@ -4,7 +4,7 @@
 <%@page import="models.ArticleBean"%>
 <html>
 
-<title>Solide: piece d'automobile</title>
+<title>Solide: piece d'automobile</title> 
 <link rel="stylesheet" href="css_files/style.css" type="text/css">
 <link rel="stylesheet" href="css_files/style3.css" type="text/css"
 	media="all">
@@ -22,7 +22,7 @@
 	media="all">
 <script src='js_files/jquery.min.js'></script>
 
-
+<!-- blabla -->
 	<head>
 <!--common core-->
 <%@include file="commonHead.jsp"%>
