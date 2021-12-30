@@ -1,1 +1,1 @@
-Das ist training, stash
+Das ist stash
